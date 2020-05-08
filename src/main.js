@@ -1,3 +1,4 @@
+jQuery
 const $siteList = $(`.siteList`);
 const $lastLi = $siteList.find(`li.last`);
 //获得x,把x字符串转成对象
